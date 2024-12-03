@@ -1,2 +1,0 @@
-# MA1805CreativePortfolio
-hello
